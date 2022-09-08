@@ -7,6 +7,6 @@
 
 🌱 Possuo conhecimentos básicos acerca de <b>bancos de dados, metodologias ágeis (com ênfase na metodologia SCRUM), linguagem C, Java, HTML, CSS</b> e experiência na utilização do <b>Excel</b>.
 
-<fieldset>
+<hr></hr>
 <h3>LinkedIn: https://www.linkedin.com/in/rafaela-mendon%C3%A7a-estefogo-b42221208/</h3>
-</fieldset>
+<hr></hr>
