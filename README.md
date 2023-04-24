@@ -1,7 +1,7 @@
 <h2>Meu nome é Rafaela, muito prazer!</h2>
 <hr></hr>
 <p>
-📚 Aqui estão alguns dos projetos desenvolvidos ao longo do meu curso de análise e desenvolvimento de sistemas :)
+👩‍💻 Aqui estão alguns dos projetos desenvolvidos ao longo do meu curso de análise e desenvolvimento de sistemas :)
 </p>
 
 
