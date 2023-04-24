@@ -1,9 +1,7 @@
 <h2>Meu nome é Rafaela, muito prazer!</h2>
 <hr></hr>
 <p>
-📚 Atualmente, estou cursando <b>análise e desenvolvimento de sistemas</b>.
-
-🌱 Aqui estão alguns dos projetos desenvolvidos ao longo da faculdade :)
+📚 Atualmente, estou cursando <b>análise e desenvolvimento de sistemas</b>. Aqui estão alguns dos projetos desenvolvidos ao longo da faculdade :)
 </p>
 
 
