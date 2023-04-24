@@ -3,7 +3,7 @@
 <p>
 📚 Atualmente, estou cursando <b>análise e desenvolvimento de sistemas</b>.
 
-🌱 Possuo conhecimentos básicos acerca de <b>bancos de dados, metodologias ágeis (com ênfase na metodologia SCRUM), Java, HTML, CSS</b> e experiência na utilização do <b>Excel</b>.
+🌱 Aqui estão alguns dos projetos desenvolvidos ao longo da faculdade :)
 </p>
 
 
