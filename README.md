@@ -6,5 +6,5 @@
 
 
 <hr></hr>
-<h3>LinkedIn: https://www.linkedin.com/in/rafaela-mendon%C3%A7a-estefogo-b42221208/</h3>
+<h3>LinkedIn: www.linkedin.com/in/rafaela-mendonça-estefogo-b42221208/</h3>
 <hr></hr>
