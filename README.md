@@ -1,4 +1,4 @@
-<h2>Meu nome é Rafaela, muito prazer!</h2>
+<h2>🧙‍♀️ Meu nome é Rafaela, muito prazer!</h2>
 <hr></hr>
 <p>
 👩‍💻 Aqui estão alguns dos meus projetos desenvolvidos.
