@@ -1,8 +1,8 @@
 <h2>🧙‍♀️ Meu nome é Rafaela, muito prazer!</h2>
 <hr></hr>
-<p>
+<h3>
 👩‍💻 Aqui estão alguns dos meus projetos desenvolvidos.
-</p>
+</h3>
 
 
 <hr></hr>
