@@ -7,4 +7,3 @@
 
 <hr></hr>
 <h3>LinkedIn: www.linkedin.com/in/rafaela-mendonça-estefogo-b42221208/</h3>
-<hr></hr>
