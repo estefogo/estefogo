@@ -1,5 +1,5 @@
 <h2>🧙‍♀️ Meu nome é Rafaela, muito prazer!</h2>
-<hr></hr>
+
 <h3>
 👩‍💻 Aqui estão alguns dos meus projetos desenvolvidos.
 </h3>
