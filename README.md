@@ -1,7 +1,7 @@
 <h2>🧙‍♀️ Meu nome é Rafaela, muito prazer!</h2>
 
 <h3>
-👩‍💻 Aqui estão alguns dos meus projetos desenvolvidos durante a faculdade e também para estudos pessoais :)
+👩‍💻 Aqui estão alguns dos meus projetos desenvolvidos durante a faculdade e para estudos pessoais :)
 </h3>
 
 
