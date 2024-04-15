@@ -1,9 +1,9 @@
 <h2>🧙‍♀️ Meu nome é Rafaela, muito prazer!</h2>
 
 <h3>
-👩‍💻 Aqui estão alguns dos meus projetos desenvolvidos.
+👩‍💻 Aqui estão alguns dos meus projetos desenvolvidos durante a faculdade e também para estudos pessoais :)
 </h3>
 
 
 <hr></hr>
-<h3>LinkedIn: www.linkedin.com/in/rafaela-mendonça-estefogo-b42221208/</h3>
+<h3>📌 LinkedIn: www.linkedin.com/in/rafaela-mendonça-estefogo-b42221208/</h3>
