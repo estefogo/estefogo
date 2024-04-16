@@ -1,5 +1,4 @@
-![image](https://github.com/estefogo/estefogo/assets/79616452/73860f47-b56d-4e25-9777-bfc02caa661c)
-
+![image](https://github.com/estefogo/estefogo/assets/79616452/6e6770fe-cc96-41eb-83bc-1fe046b26c2e)
 
 <h2>🧚🏼 Meu nome é Rafaela, muito prazer!</h2>
 <h3>👩‍💻 Aqui estão alguns dos meus projetos desenvolvidos durante a faculdade de Análise e Desenvolvimento de Sistemas e para estudos pessoais :)</h3>
