@@ -4,6 +4,8 @@
 👩‍💻 Aqui estão alguns dos meus projetos desenvolvidos durante a faculdade de Análise e Desenvolvimento de Sistemas e para estudos pessoais :)
 </h3>
 
+<div>
+
 <a href="www.linkedin.com/in/rafaela-mendonça-estefogo-b42221208/</h3>" alt="linkedin" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 
