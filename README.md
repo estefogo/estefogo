@@ -1,3 +1,5 @@
+![image](https://github.com/estefogo/estefogo/assets/79616452/1ac53ca8-e57e-48aa-8ed2-415089026964)
+<br>
 <h3>👩‍💻 Aqui estão alguns dos meus projetos desenvolvidos durante a faculdade de Análise e Desenvolvimento de Sistemas e para estudos pessoais :)</h3>
 <h3>☎️ Contato:</h3>
 <a href="www.linkedin.com/in/rafaela-mendonça-estefogo-b42221208/</h3>" alt="linkedin" target="_blank">
