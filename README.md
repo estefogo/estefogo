@@ -13,3 +13,5 @@
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estefogo&layout=compact&langs_count=7&theme=dracula"/>
 
 </div> <br>
+
+<a href="www.linkedin.com/in/rafaela-mendonça-estefogo-b42221208/</h3>" alt="linkedin" target="_blank">
