@@ -3,7 +3,7 @@
 <h2>🧚🏼 Meu nome é Rafaela, muito prazer!</h2>
 <h3>👩‍💻 Aqui estão alguns dos meus projetos desenvolvidos durante a faculdade de Análise e Desenvolvimento de Sistemas e para estudos pessoais :)</h3>
 <h3>☎️ Contato:</h3>
-<a href="www.linkedin.com/in/rafaela-mendonça-estefogo-b42221208/</h3>" alt="linkedin" target="_blank">
+<a href="www.linkedin.com/in/rafaela-mendonça-estefogo-b42221208/" alt="linkedin" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 <hr>
 <a href="https://github.com/estefogo">
